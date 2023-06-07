@@ -19,7 +19,7 @@
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
    
-   https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg
+ 
 </div>
  
   ##
