@@ -8,7 +8,7 @@ Sou Engenheiro de Software atuando com suporte e implementação de soluções t
 
 Tenho experiência com instalação de sistemas de despacho, sensores de alta precisão e caminhões autônomos, tanto em ambiente Windows Server quanto com hardware embarcado.
 
-🎮 Atualmente, estudo C++ e Unreal Engine por hobby, criando experiências imersivas em desenvolvimento de jogos.
+🎮 Atualmente, estudo C++ e Unreal Engine por hobby, criando experiências imersivas em desenvolvimento de jogos, além de cursar uma especialização em Inteligência Artificial e Computacional na Universidade Federal de Viçosa - UFV.
 
 <div align="center">
   <a href="https://github.com/fernandoarruda">
