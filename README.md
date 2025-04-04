@@ -15,12 +15,12 @@ Tenho experiência com instalação de sistemas de despacho, sensores de alta pr
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoarruda&layout=compact&langs_count=7&theme=dark"/>
      
    
-</div>
+
 
 <a href="https://github.com/fernandoarruda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoarruda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
-
+</div>
   
  <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
