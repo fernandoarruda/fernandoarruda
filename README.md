@@ -2,6 +2,9 @@
 
 ## Olá! Eu sou o Fernando Arruda!
 
+Sou Engenheiro de Software atuando com suporte e implementação de soluções tecnológicas voltadas para mineração, com foco na suíte MineStar da Caterpillar. Tenho experiência na instalação e manutenção de sistemas de despacho, sensores de alta precisão para georreferenciamento e caminhões autônomos, operando em ambientes como Windows Server e hardware embarcado. Apaixonado por tecnologia, atualmente estudo C++ e Unreal Engine como hobby, com o objetivo de criar experiências imersivas no desenvolvimento de jogos.
+
+
 <div>
   <a href="https://github.com/fernandoarruda">
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoarruda&layout=compact&langs_count=7&theme=dark"/>
