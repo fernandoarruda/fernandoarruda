@@ -43,12 +43,10 @@ Tenho experiência com instalação de sistemas de despacho, sensores de alta pr
 <br>
 
 **Ferramentas**<br>
-
 <img align="center" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/>
 &nbsp;
 <img align="center" alt="github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30"/>
 
-<br>
 
   
   <div> 
