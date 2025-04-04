@@ -22,6 +22,7 @@ Tenho experiência com instalação de sistemas de despacho, sensores de alta pr
 
 
 ### 💻 Tecnologias que uso
+<br>
 
 **Front-End**<br>
 <img align="center" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>
