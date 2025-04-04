@@ -48,7 +48,9 @@ Tenho experiência com instalação de sistemas de despacho, sensores de alta pr
 <img align="center" alt="github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30"/>
 
 
-  
+### 🐍 Snake eating my contributions
+![snake gif](https://raw.githubusercontent.com/fernandoarruda/fernandoarruda/output/github-contribution-grid-snake.svg)
+
   <div> 
 
   <a href="https://www.linkedin.com/in/fernando-arruda-88a8ab21/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
