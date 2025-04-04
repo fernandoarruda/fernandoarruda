@@ -32,21 +32,21 @@ Tenho experiência com instalação de sistemas de despacho, sensores de alta pr
 &nbsp;
 <img align="center" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/>
 
-<br><br>
+<br>
 
 **Game Dev**<br>
 <img align="center" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/>
 &nbsp;
 <img align="center" alt="Unreal Engine" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="30"/>
 
-<br><br>
+<br>
 
 **Ferramentas**<br>
 <img align="center" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/>
 &nbsp;
 <img align="center" alt="Unreal Engine" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="30"/>
 
- <br><br>
+ <br>
 
  
   ##
