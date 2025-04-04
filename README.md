@@ -10,12 +10,16 @@ Tenho experiência com instalação de sistemas de despacho, sensores de alta pr
 
 🎮 Atualmente, estudo C++ e Unreal Engine por hobby, criando experiências imersivas em desenvolvimento de jogos.
 
-<div>
+<!--<div>
   <a href="https://github.com/fernandoarruda">
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoarruda&layout=compact&langs_count=7&theme=dark"/>
      
    
-</div>
+</div>-->
+
+<a href="https://github.com/fernandoarruda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoarruda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</a>
 
   
  <div style="display: inline_block"><br>
