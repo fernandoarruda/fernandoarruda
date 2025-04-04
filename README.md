@@ -21,24 +21,28 @@ Tenho experiência com instalação de sistemas de despacho, sensores de alta pr
 </div>
 
 
-
-  
 ### 💻 Tecnologias que uso
 
-**Front-End**  
-<img align="center" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>  
+**Front-End**<br>
+<img align="center" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>
+&nbsp;
 <img align="center" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/>
-<img align="center" alt="JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30"/>
+&nbsp;
+<img align="center" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30"/>
+&nbsp;
 <img align="center" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/>
 
-**Game Dev**  
-<img align="center" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/>
-<img align="center" alt="Unreal" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="30"/>
+<br><br>
 
-**Ferramentas**  
-<img align="center" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/>
-<img align="center" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30"/>
-...
+**Game Dev**<br>
+<img align="center" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/>
+&nbsp;
+<img align="center" alt="Unreal Engine" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="30"/>
+
+<br><br>
+
+**Ferramentas**<br>
+<img align="center" alt="Git" src="https://raw.githubusercontent
 
  
   ##
