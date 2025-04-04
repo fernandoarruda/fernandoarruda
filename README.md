@@ -42,9 +42,13 @@ Tenho experiência com instalação de sistemas de despacho, sensores de alta pr
 <br><br>
 
 **Ferramentas**<br>
-<img align="center" alt="Git" src="https://raw.githubusercontent
+<img align="center" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/>
+&nbsp;
+<img align="center" alt="Unreal Engine" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="30"/>
 
  <br><br>
+
+ 
   ##
   
   <div> 
